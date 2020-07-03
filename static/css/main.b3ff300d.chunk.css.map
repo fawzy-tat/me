@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,gCAAoC,CACpC,wBAAyB,CACzB,QAAS,CACT,YACF","file":"main.b3ff300d.chunk.css","sourcesContent":["body {\r\n  font-family: \"Quicksand\", sans-serif;\r\n  background-color: #262626;\r\n  margin: 0;\r\n  height: 100vh;\r\n}\r\n"]}
